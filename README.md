@@ -1,16 +1,42 @@
-## Hi there 👋
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<!--
-**vanyasharma07/vanyasharma07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vanya Sharma   
+**Aspiring Software Developer | CS Undergrad | Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ About Me
+
+🌸 18 y/o, full of curiosity and motivation 
+🌱 Currently diving deep into **C++, DSA, and Web Dev**  
+🛠 Learning: **React, Tailwind and more**  
+💡 Love building things that solve real problems  
+🎯 Goal: Land an internship and build a solid dev portfolio
+
+---
+
+### 🧰 Tech Toolbox
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,git,github,vscode" />
+</p>
+
+---
+
+### 🖤 GitHub Vibes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanyasharma&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanyasharma&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanya-sharma-921b732a6/)  
+📫 Mail me at: **vanya2007sharma
+@gmail.com**
+
+---
+
+> 🧘‍♀️ *"Stay consistent. Stay curious. Good things will follow."*
