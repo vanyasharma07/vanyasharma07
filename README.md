@@ -22,15 +22,6 @@
 
 ---
 
-### 🖤 GitHub Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanyasharma&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanyasharma&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanya-sharma-921b732a6/)  
