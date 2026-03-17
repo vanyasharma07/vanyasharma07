@@ -8,6 +8,7 @@
 ### About Me
 
 🌱 19 y/o, full of curiosity and motivation 
+
 🌱 Currently diving deep into **C++, DSA, and Web Dev**  
 🌱 Learning: **React, Tailwind and more**  
 🌱 Love building things that solve real problems  
