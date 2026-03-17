@@ -5,29 +5,28 @@
 
 ---
 
-### ✨ About Me
+### About Me
 
-🌸 18 y/o, full of curiosity and motivation 
+🌱 19 y/o, full of curiosity and motivation 
 🌱 Currently diving deep into **C++, DSA, and Web Dev**  
-🛠 Learning: **React, Tailwind and more**  
-💡 Love building things that solve real problems  
-🎯 Goal: Land an internship and build a solid dev portfolio
+🌱 Learning: **React, Tailwind and more**  
+🌱 Love building things that solve real problems  
+🌱 Goal: Land an internship and build a solid dev portfolio
 
 ---
 
-### 🧰 Tech Toolbox
+### Tech Toolbox
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,git,github,vscode" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanya-sharma-921b732a6/)  
-📫 Mail me at: **vanya2007sharma
-@gmail.com**
+Mail me at: **vanya2007sharma@gmail.com**
 
 ---
 
-> 🧘‍♀️ *"Stay consistent. Stay curious. Good things will follow."*
+> *"Stay consistent. Stay curious. Good things will follow."*
